@@ -3,6 +3,7 @@
 ## Task
 
 Задание: [[ссылка на документ с заданием](https://drive.google.com/file/d/15jVnBPXaZrjs99KOUxp4TGq6Inau6xq_/view)]
+[[deploy link] (https://nikolasslim.github.io/calculator/dist/index.html)]
 
 ## How to run the app
 
