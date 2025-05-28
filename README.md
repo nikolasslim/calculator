@@ -2,8 +2,7 @@
 
 ## Task
 
-Задание: [ссылка на документ с заданием]  
-(Замените на актуальную ссылку на ваш документ с заданием)
+Задание: [[ссылка на документ с заданием](https://drive.google.com/file/d/15jVnBPXaZrjs99KOUxp4TGq6Inau6xq_/view)]
 
 ## How to run the app
 
